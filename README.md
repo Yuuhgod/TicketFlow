@@ -44,8 +44,5 @@ Sinta-se à vontade para enviar pull requests e sugerir melhorias.
 ## Licença
 Este projeto é licenciado sob a [MIT License](LICENSE).
 
----
-
-Você pode personalizar esse modelo de acordo com as necessidades específicas do seu sistema de chamados e da empresa de desenvolvimento de software.
 
 
