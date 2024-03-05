@@ -13,7 +13,7 @@ Este é um sistema de gerenciamento de chamados desenvolvido para facilitar o pr
 - **Histórico de Chamados:** O sistema mantém um histórico completo de todos os chamados, incluindo detalhes sobre a resolução e o tempo de resposta.
 
 ## Como Usar
-1. **Registro:** Os clientes devem se registrar usando seu endereço de e-mail e criar uma senha.
+1. **Registro:** Os clientes devem se registrar usando seu CNPJ e senha.
 2. **Login:** Após o registro, os clientes podem fazer login usando suas credenciais.
 3. **Criação de Chamados:** Na página inicial, os clientes têm a opção de criar um novo chamado, fornecendo detalhes sobre o problema ou solicitação.
 4. **Acompanhamento de Chamados:** Os clientes podem visualizar todos os chamados que criaram e acompanhar seu status e progresso.
@@ -22,7 +22,7 @@ Este é um sistema de gerenciamento de chamados desenvolvido para facilitar o pr
 
 ## Tecnologias Utilizadas
 - **Backend:** Node.js, Express.js, MongoDB
-- **Frontend:** React.js, Bootstrap
+- **Frontend:** HTML, CSS, JavaScript
 - **Autenticação:** JWT (JSON Web Tokens)
 - **Comunicação em Tempo Real:** Socket.io
 
