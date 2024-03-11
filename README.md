@@ -21,14 +21,14 @@ Este é um sistema de gerenciamento de chamados desenvolvido para facilitar o pr
 6. **Resolução de Chamados:** Os técnicos recebem notificações sobre novos chamados e trabalham para resolvê-los o mais rápido possível.
 
 ## Tecnologias Utilizadas
-- **Backend:** Node.js, Express.js, MongoDB
+- **Backend:** Java, Python, PostgreSQL
 - **Frontend:** HTML, CSS, JavaScript
 - **Autenticação:** JWT (JSON Web Tokens)
-- **Comunicação em Tempo Real:** Socket.io
+- **Comunicação em Tempo Real:** GitHub
 
 ## Pré-requisitos
 - Node.js e npm instalados
-- MongoDB rodando localmente ou em uma instância na nuvem
+- PostgreSQL rodando localmente ou em uma instância na nuvem
 
 ## Instalação
 1. Clone este repositório: `git clone <https://github.com/Yuuhgod/SistemadeChamado.git>`
