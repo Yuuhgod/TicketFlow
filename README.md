@@ -31,7 +31,7 @@ Este é um sistema de gerenciamento de chamados desenvolvido para facilitar o pr
 - PostgreSQL rodando localmente ou em uma instância na nuvem
 
 ## Instalação
-1. Clone este repositório: `git clone <https://github.com/Yuuhgod/SistemadeChamado.git>`
+1. Clone este repositório: `git clone <(https://github.com/Yuuhgod/TicketFlow.git)>`
 2. Instale as dependências do backend: `cd backend && npm install`
 3. Instale as dependências do frontend: `cd frontend && npm install`
 4. Configure as variáveis de ambiente necessárias (consulte o arquivo `.env.example`)
