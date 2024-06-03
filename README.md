@@ -27,9 +27,9 @@ Este é um sistema de gerenciamento de chamados desenvolvido para facilitar o pr
 - **Comunicação em Tempo Real:** GitHub
 
 ## Pré-requisitos
-- Node.js e npm instalados
 - PostgreSQL rodando localmente ou em uma instância na nuvem
 - Java instalado
+- Python instalado
 
 ## Instalação
 1. Clone este repositório: `git clone <(https://github.com/Yuuhgod/TicketFlow.git)>`
