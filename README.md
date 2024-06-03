@@ -23,21 +23,13 @@ Este é um sistema de gerenciamento de chamados desenvolvido para facilitar o pr
 ## Tecnologias Utilizadas
 - **Backend:** Java, Python, PostgreSQL
 - **Frontend:** HTML, CSS, JavaScript
-- **Autenticação:** JWT (JSON Web Tokens)
 - **Comunicação em Tempo Real:** GitHub
 
 ## Pré-requisitos
 - PostgreSQL rodando localmente ou em uma instância na nuvem
 - Java instalado
 - Python instalado
-
-## Instalação
-1. Clone este repositório: `git clone <(https://github.com/Yuuhgod/TicketFlow.git)>`
-2. Instale as dependências do backend: `cd backend && npm install`
-3. Instale as dependências do frontend: `cd frontend && npm install`
-4. Configure as variáveis de ambiente necessárias (consulte o arquivo `.env.example`)
-5. Inicie o servidor backend: `npm start`
-6. Inicie o servidor frontend: `npm start`
+- JavaScript instalado
 
 ## Contribuindo
 Sinta-se à vontade para enviar pull requests e sugerir melhorias. 
