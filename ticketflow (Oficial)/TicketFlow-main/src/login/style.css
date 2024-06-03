@@ -1,0 +1,108 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #d9d9d9;
+  font-family: "Inter", sans-serif;
+}
+
+#main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#logo-container {
+  background-color: white;
+  width: 332px;
+  height: 240px;
+  margin-top: 6rem;
+}
+
+#logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 34px;
+}
+
+#welcome-message {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 23px;
+}
+
+#form-container {
+  background-color: black;
+  width: 322px;
+  height: 401px;
+  margin-top: 6rem;
+  color: white;
+}
+
+#form-title h2 {
+  font-size: 16px;
+  font-weight: 200;
+  margin-top: 114px;
+  margin-left: 4rem;
+}
+
+#login-form {
+  display: flex;
+  flex-direction: column;
+}
+
+#login-form label {
+  font-size: 16px;
+  font-weight: 200;
+  margin-left: 4rem;
+}
+
+#cnpj {
+  margin-top: 47px;
+  border: none;
+  background: none;
+  border-bottom: 5px solid #ff4500;
+  padding: 0;
+  outline: none;
+  width: 185px;
+  margin-left: 4rem;
+  text-align: center;
+}
+
+#cnpj:enabled {
+  color: white;
+  font-weight: 100;
+}
+
+#enviar {
+  background: none;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  color: #848282;
+  margin-top: 42px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  padding: 7px 20px;
+  transition: background-color 0.3s, color 0.3s;
+}
+#enviar:hover {
+  background-color: #ff4500;
+  color: white;
+}
+
+footer p {
+  text-align: center;
+  margin-top: 92px;
+  color: black;
+  font-size: 12px;
+  font-weight: 300;
+}
